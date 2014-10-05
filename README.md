@@ -4,7 +4,11 @@ enpit-aiit-2014
 
 enPiT PBL page
 
-- Project name
+- Project name, service name
 - Project description
-- heroku URL
 - github repository
+- heroku URL
+- work hour
+- member list
+
+visit http://hyoshiok.github.io/enpit-aiit-2014/
